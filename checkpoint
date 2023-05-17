@@ -1,0 +1,2 @@
+model_checkpoint_path: "d:\\winsem 2\\Training Model\\model.tflearn"
+all_model_checkpoint_paths: "d:\\winsem 2\\Training Model\\model.tflearn"
